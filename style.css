@@ -1,0 +1,43 @@
+img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 40;
+    background: gray;
+}
+
+.menu {
+    font-family: inherit;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    float: right;
+    list-style: none;
+}
+
+.link {
+    color: cadetblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    display: inline;
+}
+
+.link:hover {
+    background-color: darkkhaki;
+}
